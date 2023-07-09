@@ -1,2 +1,1 @@
-# rsschool-cv
-https://OlgaIndykova.github.io/rsschool-cv/index
+https://OlgaIndykova.github.io/rsschool-cv/
