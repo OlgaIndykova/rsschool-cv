@@ -14,8 +14,8 @@ Chemist-engineer-technologist 2004-2010
 
 Engineer-technologist in State Plant for Chemical Reagents STC
 
-- development of documentation for the production of a madical product;
-- change control
++ development of documentation for the production of a madical product;
++ change control.
 
 ### Skills
 - HTML, 
