@@ -1,0 +1,16 @@
+.wrapper{
+    display: flex;
+}
+.wrapper section{
+    width: 250px;
+}
+h4{
+    color: darkblue;
+    text-transform: uppercase;
+}
+h2{
+    color:blueviolet;
+}
+span{
+    font-style: italic;
+}
